@@ -24,7 +24,9 @@ PM_START = """Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot 🃏
+I'm group manager bot 
+
+POWERD BY CYBER YAKKU
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
