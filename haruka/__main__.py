@@ -26,7 +26,9 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 
 I'm group manager bot 
 
-POWERD BY CYBER YAKKU
+BOT POWERD BY CYBER YAKKU
+
+BOT CREATOR/OWNER @S1_TOURBO
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
